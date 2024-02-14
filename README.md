@@ -64,6 +64,8 @@
 
 #### 飞机云机场测速
 
+![FeijiCloud-SpeedTest-SZDX](https://github.com/clashfan/jichangtuijian/assets/156937986/42eb5463-a862-47cb-a582-83025999ef89)
+
 ### 2. 大哥云
 
 #### 大哥云官网
@@ -84,6 +86,8 @@
 
 #### 大哥云机场测速
 
+![dageyun-SpeedTest-SZDX](https://github.com/clashfan/jichangtuijian/assets/156937986/0d5b368c-4e1c-410b-9ca9-bb030c38b09d)
+
 ### 3. 龙猫云
 
 #### 龙猫云官网
@@ -100,6 +104,8 @@
 | VIP4套餐 | 按月付  | 120.00 | 1000 GB | 无限制    |
 
 #### 龙猫云机场测速
+
+![TotoroCloud-SpeedTest-SZDX](https://github.com/clashfan/jichangtuijian/assets/156937986/04c8f44e-9902-4a16-96df-b0f61eb5dc00)
 
 ### 4. 速云梯
 
@@ -119,6 +125,8 @@
 
 #### 速云梯机场测速
 
+![SuYunTi-SpeedTest-SZDX](https://github.com/clashfan/jichangtuijian/assets/156937986/13cde2dd-903d-4fb6-88c3-a0144e911784)
+
 ### 5. 极速VIP加速器
 
 #### 极速VIP加速器官网
@@ -137,6 +145,8 @@
 
 #### 极速VIP加速器机场测速
 
+![JisuVIP-SpeedTest-SZDX](https://github.com/clashfan/jichangtuijian/assets/156937986/0c12ed1d-4605-4abd-a317-270a8f0bdcf1)
+
 ### 6. 飞鸟机场
 
 #### 飞鸟机场官网
@@ -153,6 +163,8 @@
 | 钻石套餐 | 按月付  | 150.00 | 1000 GB | 无限制    |
 
 #### 飞鸟机场机场测速
+
+![FlyingBird-SpeedTest-SZDX](https://github.com/clashfan/jichangtuijian/assets/156937986/8d184711-87c5-44ab-8121-9b439f5b6318)
 
 ### 7. CyberGuard机场
 
@@ -171,6 +183,8 @@
 
 #### CyberGuard机场机场测速
 
+![cyberguard-SpeedTest-SZDX](https://github.com/clashfan/jichangtuijian/assets/156937986/088cdb5a-fbda-4a36-a6ec-7da21b9bc69f)
+
 ### 8. 万城网络
 
 #### 万城网络官网
@@ -188,6 +202,8 @@
 | 专业   | 按月付  | 138.00 | 780 GB | 10     |
 
 #### 万城网络机场测速
+
+![vcity-SpeedTest-SZDX](https://github.com/clashfan/jichangtuijian/assets/156937986/6d214dc3-1b47-4e80-bd71-177ff81a3e6e)
 
 ### 9. 奶瓶机场
 
@@ -222,6 +238,8 @@
 
 #### 奶瓶机场机场测速
 
+![Nerwo-SpeedTest-SZDX](https://github.com/clashfan/jichangtuijian/assets/156937986/a9bdc437-01da-481d-bf25-c3d560d66868)
+
 ### 10. SSRDOG机场
 
 #### SSRDOG机场官网
@@ -240,3 +258,4 @@
 
 #### SSRDOG机场机场测速
 
+![SSRDOG-SpeedTest-SZDX](https://github.com/clashfan/jichangtuijian/assets/156937986/dd3ba969-3025-4f24-9a0f-ccdf18fd8033)
