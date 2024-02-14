@@ -1,6 +1,5 @@
 # 2024最新Clash机场推荐
 
-
 ## 写在前面
 最新机场推荐与机场评测，包含了机场最新官网地址、优惠价格套餐、机场简介等。
 
@@ -15,7 +14,35 @@
 - **iOS:** [Shadowrocket](https://shadowrocketios.org/?utm_source=github&utm_medium=jichangtuijian) / [Quantumult](https://quantumult.org/?utm_source=github&utm_medium=jichangtuijian)_ / [Quantumult X](https://quantumultx.org/?utm_source=github&utm_medium=jichangtuijian) / [Stash](https://clashstash.org/?utm_source=github&utm_medium=jichangtuijian) / [Potatso Lite](https://potatso.org/?utm_source=github&utm_medium=jichangtuijian) / [sing-box](https://sing-box.org/?utm_source=github&utm_medium=jichangtuijian)
 - **Android:** [v2rayNG](https://v2rayng.org/?utm_source=github&utm_medium=jichangtuijian) / [Clash for Android](https://clashforandroid.org/?utm_source=github&utm_medium=jichangtuijian) / [NekoBox for Android](https://nekoboxforandroid.org/?utm_source=github&utm_medium=jichangtuijian) / [sing-box](https://sing-box.org/?utm_source=github&utm_medium=jichangtuijian) / [Surfboard](https://getsurfboard.org/?utm_source=github&utm_medium=jichangtuijian)
 - **Linux:** [Clsah Verge](https://clashverge.org/?utm_source=github&utm_medium=jichangtuijian) / [Clash for Windows](https://clashforwindows.org/?utm_source=github&utm_medium=jichangtuijian) / [NekoRay](https://nekoray.org/?utm_source=github&utm_medium=jichangtuijian) / [sing-box](https://sing-box.org/?utm_source=github&utm_medium=jichangtuijian)
-- **路由器:** [OpenClash](https://openclash.org/?utm_source=github&utm_medium=jichangtuijian) / [PassWall2](https://passwall2.org/?utm_source=github&utm_medium=jichangtuijian) / [SSRplus](https://ssrplus.org/?utm_source=github&utm_medium=jichangtuijian)
+- **路由器:** [OpenClash](https://openclash.org/?utm_source=github&utm_medium=jichangtuijian) / [PassWall2](https://passwall2.org/?utm_source=github&utm_medium=jichangtuijian) / [ShadowsocksR Plus+](https://ssrplus.org/?utm_source=github&utm_medium=jichangtuijian)
+
+### 快速导航
+| 客户端                 | Windows |  <img width=5/>macOS<img width=5/>  |  <img width=11/>Linux<img width=11/>  |   <img width=19/>iOS<img width=19/>   | <img width=3/>Android<img width=3/> | <img width=7/>路由器<img width=7/> |
+|---------------------|---------|-------|-------|-----|---------|-----|
+| [Clash for Android](https://clashforandroid.org/?utm_source=github&utm_medium=jichangtuijian)   |         |       |       |     | ✔       |     |
+| [Clash for Windows](https://clashforwindows.org/?utm_source=github&utm_medium=jichangtuijian)   | ✔       | ✔     | ✔     |     |         |     |
+| [Clsah Verge](https://clashverge.org/?utm_source=github&utm_medium=jichangtuijian)         | ✔       | ✔     | ✔     |     |         |     |
+| [ClashX](https://clashx.org/?utm_source=github&utm_medium=jichangtuijian)              |         | ✔     |       |     |         |     |
+| [ClashX Pro](https://clashxpro.org/?utm_source=github&utm_medium=jichangtuijian)          |         | ✔     |       |     |         |     |
+| [NekoBox for Android](https://nekoboxforandroid.org/?utm_source=github&utm_medium=jichangtuijian) |         |       |       |     | ✔       |     |
+| [NekoRay](https://nekoray.org/?utm_source=github&utm_medium=jichangtuijian)             | ✔       |       | ✔     |     |         |     |
+| [OpenClash](https://openclash.org/?utm_source=github&utm_medium=jichangtuijian)           |         |       |       |     |         | ✔   |
+| [PassWall2](https://passwall2.org/?utm_source=github&utm_medium=jichangtuijian)           |         |       |       |     |         | ✔   |
+| [Potatso Lite](https://potatso.org/?utm_source=github&utm_medium=jichangtuijian)        |         |       |       | ✔   |         |     |
+| [Quantumult](https://quantumult.org/?utm_source=github&utm_medium=jichangtuijian)          |         |       |       | ✔   |         |     |
+| [Quantumult X](https://quantumultx.org/?utm_source=github&utm_medium=jichangtuijian)        |         | ✔     |       | ✔   |         |     |
+| [Shadowrocket](https://shadowrocketios.org/?utm_source=github&utm_medium=jichangtuijian)        |         |       |       | ✔   |         |     |
+| [ShadowsocksR Plus+](https://ssrplus.org/?utm_source=github&utm_medium=jichangtuijian)  |         |       |       |     |         | ✔   |
+| [sing-box](https://sing-box.org/?utm_source=github&utm_medium=jichangtuijian)            | ✔       | ✔     | ✔     | ✔   | ✔       |     |
+| [Stash](https://clashstash.org/?utm_source=github&utm_medium=jichangtuijian)               |         | ✔     |       | ✔   |         |     |
+| [Surfboard](https://getsurfboard.org/?utm_source=github&utm_medium=jichangtuijian)           |         |       |       |     | ✔       |     |
+| [Surge iOS](https://surgeios.org/?utm_source=github&utm_medium=jichangtuijian)           |         |       |       | ✔   |         |     |
+| [Surge Mac](https://surgemac.org/?utm_source=github&utm_medium=jichangtuijian)           |         | ✔     |       |     |         |     |
+| [v2rayN](https://v2rayn.org/?utm_source=github&utm_medium=jichangtuijian)              | ✔       |       |       |     |         |     |
+| [v2rayNG](https://v2rayng.org/?utm_source=github&utm_medium=jichangtuijian)             |         |       |       |     | ✔       |     |
+| [V2rayU](https://v2rayu.org/?utm_source=github&utm_medium=jichangtuijian)              |         | ✔     |       |     |         |     |
+
+
 
 ## 10大稳定好用的机场推荐
 
@@ -23,7 +50,7 @@
 
 ### 2. 大哥云
 
-### 3. WgetCloud全球加速器
+### 3. 龙猫云
 
 ### 4. 速云梯
 
@@ -31,9 +58,9 @@
 
 ### 6. 飞鸟机场
 
-### 7. 桔子云
+### 7. CyberGuard机场
 
-### 8. 龙猫云
+### 8. 万城网络
 
 ### 9. 奶瓶机场
 
